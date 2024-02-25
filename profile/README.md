@@ -12,7 +12,7 @@ OpenConnect is a collaborative platform designed to foster idea-sharing and netw
 ## Technology Stack 💻
 
 OpenConnect is built with cutting-edge technologies, ensuring a seamless and innovative user experience. 🛠️
-- **Backend** : GoLang + Postgres
+- **Backend** : GoLang + Postgresql
 - **Frontend** :  Astro + HTMX + TEMPL
 ## Getting Started 🚀
 
