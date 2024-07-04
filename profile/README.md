@@ -13,7 +13,7 @@ OpenConnect is a collaborative platform designed to foster idea-sharing and netw
 
 OpenConnect is built with cutting-edge technologies, ensuring a seamless and innovative user experience. 🛠️
 - **Backend** : GoLang + Postgresql
-- **Frontend** :  Astro + HTMX + TEMPL
+- **Frontend** :  Vite + React
 ## Getting Started 🚀
 
 1. Clone the repository.
