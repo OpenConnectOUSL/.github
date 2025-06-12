@@ -1,7 +1,7 @@
 --- 
-# OpenConnect 🌐💡
+# OConnect 🌐💡
 
-OpenConnect is a collaborative platform designed to foster idea-sharing and networking within the Open University of Sri Lanka community. 🚀
+OConnect is a collaborative platform designed to foster idea-sharing and networking within the Open University of Sri Lanka community. 🚀
 
 ## Features 🌟
 
